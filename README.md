@@ -1,2 +1,3 @@
 # hello-world
-tutorial
+
+This repository serves Algorithmic Works, LLC
